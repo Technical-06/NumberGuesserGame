@@ -1,0 +1,33 @@
+.set{
+    margin: auto;
+    text-align: center;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    justify-content: space-between;
+    color: brown;
+    
+   
+}
+body{
+    background-image: url('https://content.tinytap.it/Guess-My-Number_184D8385-7713-4E40-A86D-379AE6558F9C/unzipped%2Fphoto1%2Fphoto1phone.jpg');
+    background-repeat: no-repeat;
+    background-size:1500px 650px;
+}
+.button{
+  background-color: peru;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px 30px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.input[type="text"]{
+    border: 1px solid black;
+    color:black; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
